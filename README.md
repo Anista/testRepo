@@ -8,3 +8,5 @@ somesome newnew fi1 text
 fi1 text add today
 
 adding some new features
+
+test fi1
