@@ -6,3 +6,5 @@ new fix 1 text
 
 somesome newnew fi1 text
 fi1 text add today
+
+adding some new features
