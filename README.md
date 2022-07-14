@@ -1,12 +1,3 @@
-test Repo
-some new text
-some moremoremore new text
-plusss even more
-new fix 1 text
+git push fix1
 
-somesome newnew fi1 text
-fi1 text add today
 
-adding some new features
-
-test fi1
