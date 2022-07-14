@@ -8,3 +8,4 @@ somesome newnew fi1 text
 fi1 text add today
 
 adding some new features
+new fi2 festures
